@@ -1,6 +1,5 @@
 <template>
   <div>
-    <Home />
-    <Profile />
+    <ProfileHeader />
   </div>
 </template>
