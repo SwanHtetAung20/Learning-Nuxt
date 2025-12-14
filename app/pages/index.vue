@@ -1,3 +1,9 @@
+<script setup lang="ts">
+const { $sayHello } = useNuxtApp();
+
+$sayHello("Nuxt User");
+</script>
+
 <template>
   <div>
     <Home />
